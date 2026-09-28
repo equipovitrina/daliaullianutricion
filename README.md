@@ -20,7 +20,7 @@ Abrir http://localhost:3000. Para verificar producción: `npm run build -- --web
 - Logos originales: `public/marca/`; favicon de la flor maestra.
 - Fuentes locales y licencias: `src/app/fonts/` (Prata y Source Sans 3).
 - Imágenes finales V1: `public/images/v1/`.
-- Prompts y procedencia: `image-prompts.json` y `portrait-prompt.json`. Las imágenes se generaron mediante la herramienta integrada image_gen y se optimizaron a WebP. El retrato es una recreación ilustrativa con IA basada en referencias de Dalia; el escenario no documenta el consultorio real.
+- Imágenes creadas o editadas con IA y optimizadas a WebP. El escenario del retrato es ilustrativo y no documenta el consultorio real.
 
 ## Decisiones de la V1
 
